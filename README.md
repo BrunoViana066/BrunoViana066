@@ -7,7 +7,7 @@
 - ⚡ Fato curioso: Sou certificado em várias tecnologias e estou sempre em busca de novos desafios e aprendizado.
 
 - 👋 Hi, I’m @BrunoViana066
-- 👀 I’m interested in software development, especially in projects involving back-end and mobile applications.
+- 👀 I’m interested in software development, especially in projects involving back-end, mobile applications and game design.
 - 🌱 I’m currently learning more about software engineering and enhancing my skills in technologies like Java, C#, and SQL databases.
 - 💞️ I’m looking to collaborate on open-source projects or startups that are seeking technological innovation.
 - 📫 How to reach me: [oliveira.filho1123@gmail.com or https://www.linkedin.com/in/bruno-de-oliveira-viana-84ba6b241/]
