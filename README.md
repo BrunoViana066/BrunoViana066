@@ -10,7 +10,7 @@
 - 👀 I’m interested in software development, especially in projects involving back-end and mobile applications.
 - 🌱 I’m currently learning more about software engineering and enhancing my skills in technologies like Java, C#, and SQL databases.
 - 💞️ I’m looking to collaborate on open-source projects or startups that are seeking technological innovation.
-- 📫 How to reach me: [oliveira.filho1123@gmail.com ou https://www.linkedin.com/in/bruno-de-oliveira-viana-84ba6b241/]
+- 📫 How to reach me: [oliveira.filho1123@gmail.com or https://www.linkedin.com/in/bruno-de-oliveira-viana-84ba6b241/]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m certified in various technologies and always looking for new challenges and learning opportunities.
 
